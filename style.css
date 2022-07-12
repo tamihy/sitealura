@@ -3,7 +3,7 @@ style.css
   text-aling: center;  
   }  
     body {  
-      background: #F08080 
+      background: #FF0000;
   }  
     
   #banner {  
@@ -12,6 +12,7 @@ style.css
     
   h1 {  
       text-align: center  
+    color: #F08080;
   }  
     
   p {  
