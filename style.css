@@ -1,28 +1,40 @@
-style.css
-  p{  
-  text-aling: center;  
-  }  
-    body {  
-      background: #FF0000;
-  }  
-    
-  #banner {  
-      width: 100%;  
-  }  
-    
-  h1 {  
-      text-align: center  
-    color: #F08080;
-  }  
-    
-  p {  
-      text-align: center;  
-  }  
-    
-  #missao {  
-      font-size: 20px  
-  }  
-    
-  em strong {  
-      color: #FF0000;  
-  } 
+body {
+	
+}
+
+#banner {
+	width:100%;
+}
+
+.principal{
+	background: #FFF8DC;
+	padding: 30px;
+}
+
+.titulo-principal {
+	padding-left: 20px;
+}
+
+.titulo-centralizado {
+	text-align: center
+}
+
+p {
+	text-align: center;
+}
+
+#missao {
+	font-size: 20px
+}
+
+em strong {
+	color: #F08080;
+}
+
+.itens {
+	font-style: italic
+}
+.imagembolos {
+	width: 50%;
+}
+
