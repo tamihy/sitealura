@@ -4,6 +4,8 @@ body {
 
 #banner {
 	width:100%;
+	min-width: 140px;
+	height: 100%;
 }
 
 .principal{
@@ -13,6 +15,8 @@ body {
 
 .titulo-principal {
 	padding-left: 20px;
+	text-align: center;
+	color:#F08080; 
 }
 
 .titulo-centralizado {
@@ -35,6 +39,8 @@ em strong {
 	font-style: italic
 }
 .imagembolos {
-	width: 50%;
+	width:50%;
+height:50%;
+ align:left;
+background: #FFF8DC;
 }
-
