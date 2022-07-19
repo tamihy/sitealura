@@ -1,5 +1,5 @@
 header {
-	background: #BBBBBB;
+	background: #FFF8DC;
 	padding: 20px 0;
 }
 
@@ -22,7 +22,7 @@ nav li {
 
 nav a {
 	text-transform: uppercase;
-	color: #000000;
+	color: #6495ED;
 	font-weight: bold;
 	font-size: 22px;
 	text-decoration: none;
@@ -47,16 +47,16 @@ nav a:hover {
 	margin: 0 1.5%;
 	padding: 30px 20px;
 	box-sizing: border-box;
-	border: 2px solid #000000;
+	border: 2px solid #F08080;
 	border-radius: 10px;
 }
 
 .produtos li:hover {
-	border-color: #C78C19;
+	border-color: #F08080;
 }
 
 .produtos li:active {
-	border-color: #088C19;	
+	border-color: #F08080;	
 }
 
 .produtos li:hover h2 {
@@ -66,6 +66,10 @@ nav a:hover {
 .produtos h2 {
 	font-size: 30px;
 	font-weight: bold;
+	width:50%;
+	color: #F08080;
+height:50%;
+ align:left;
 }
 
 .produto-descricao {
